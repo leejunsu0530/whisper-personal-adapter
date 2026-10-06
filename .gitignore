@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 라이선스상으로 되는지 몰라서
+.dataset/*
